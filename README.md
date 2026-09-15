@@ -62,8 +62,8 @@ student_retention_and_welfare_tracker/
 ├── src/
 │   └── build_analytics.py
 │
-├── dashboard/
-│   └── __init__.py
+├── dashboard.py
+│
 │
 ├── agent.py
 ├── app.py
@@ -418,6 +418,12 @@ The dashboard shows:
 * High-risk schools
 * School-level details
 * District comparisons
+### Live Dashboard
+
+```bash
+https://studentretentionandwelfaretracker-4bcvkiakilmzkdvgo4jnb7.streamlit.app/
+```
+
 # Limitations
 
 There are some questions that cannot be answered directly because the required information is not available in the provided data.
