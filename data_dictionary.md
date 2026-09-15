@@ -16,7 +16,7 @@ the main school-level information used for the dashboard.
 ### 5. Test Scores
 ### 6. Final School Dashboard Dataset
 
-## 1. Student Attendance
+## 1. Student Attendance Dataset
 | Column | Description | Data Type |
 |---|---|---|
 | record_id | ID of the attendance record | String |
@@ -33,7 +33,7 @@ the main school-level information used for the dashboard.
 | school_id | Unique ID of the school | String |
 | teacher_present | Shows whether the teacher was present | Boolean |
 
-## 2. School Infrastructure
+## 2. School Infrastructure Dataset
 | Column | Description | Data Type |
 |---|---|---|
 | inspection_id | ID of the infrastructure inspection | String |
@@ -47,7 +47,7 @@ the main school-level information used for the dashboard.
 | date | Date of the infrastructure inspection | Date |
 | school_id | Unique ID of the school | String |
 
-## 3. Mid-Day Meal Procurement
+## 3. Mid-Day Meal Procurement Dataset
 | Column | Description | Data Type |
 |---|---|---|
 | procurement_id | ID of the procurement record | String |
@@ -60,7 +60,7 @@ the main school-level information used for the dashboard.
 | total_cost | Total cost of the procurement | Float |
 | payment_status | Payment status of the procurement | String |
 
-## 4. School Master
+## 4. School Master Dataset
 | Column | Description | Data Type |
 |---|---|---|
 | school_id | Unique ID of the school | String |
@@ -71,7 +71,7 @@ the main school-level information used for the dashboard.
 | school_type | Type of school | String |
 | medium | Medium of instruction used in the school | String |
 
-## 5. Test Scores
+## 5. Test Scores Dataset
 | Column | Description | Data Type |
 |---|---|---|
 | assessment_id | ID of the assessment record | String |
